@@ -75,7 +75,7 @@ try
             // args[1] é o caminho do arquivo a ser exibido
             using (StreamReader sr = new StreamReader(args[1]))
             {
-                Console.WriteLine("----- Serão importados os dados abaixo -----");
+                Console.WriteLine("------ Serão importados os dados abaixo ------");
                 while (!sr.EndOfStream)
                 {
                     // separa linha usando ponto e vírgula
