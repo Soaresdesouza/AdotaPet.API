@@ -1,0 +1,8 @@
+{
+    "profiles": {
+        "Alura.Console": {
+            "commandName": "Project",
+                "commandLineArgs": "show lista.csv"
+        }
+    }
+}
