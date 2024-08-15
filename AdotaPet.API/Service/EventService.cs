@@ -1,4 +1,5 @@
-﻿using AdotaPet.API.Domain.Entity;
+﻿using AdotaPet.API.Data.Context;
+using AdotaPet.API.Domain.Entity;
 
 namespace AdotaPet.API.Service
 {
